@@ -5,3 +5,5 @@ This is a tutorial for Helium, light python module for web automation based on S
 Install: `pip install helium`
 
 <a href="https://github.com/mherrmann/selenium-python-helium">Github</a>
+
+<a href="https://helium-python.readthedocs.io/en/latest/">Docs</a>
